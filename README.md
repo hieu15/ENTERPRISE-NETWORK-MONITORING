@@ -3,20 +3,18 @@ ENTERPRISE NETWORK MONITORING WITH PROMETHEUS AND GRAFANA <br>
 
 ## Day 1: Kiến thức cơ bản & tổng quan
 - Monitor hạ tầng trong doanh nghiệp: khái niệm, lợi ích
-- Công cụ phổ biến: Prometheus, Grafana, Zabbix, Nagios, ELK Stack, SolarWinds, PRTG, ManageEngine, Datadog, Dynatrace
-- Metric là gì: CPU, RAM, Disk, Network, Response time
+- Công cụ phổ biến
+- Metric là gì
 - Giao thức: SNMP, WMI, ICMP, API
 - So sánh hệ thống monitor
 
 ## Day 2: Thực hành Prometheus & Grafana
-- Cài Prometheus server, exporter, Grafana
+- Cài Prometheus, Grafana
 - Thêm thiết bị vào Prometheus (`prometheus.yml`)
-- Viết query PromQL: filter, aggregation, grouping
-- Các hàm phổ biến: rate, irate, increase, sum, avg, max, min
+- Viết query PromQL
 
 ## Day 3: Grafana nâng cao & dashboard
-- Tạo dashboard, chart, gauge, table
-- Thiết lập panel, threshold, alert
+- Tạo dashboard, chart, gauge, table, panel
 - Dashboard mẫu: Cisco, VMware, Firewall, Network device, Linux, Windows
 
 ## Day 4: Giám sát thiết bị qua SNMP
@@ -24,7 +22,6 @@ ENTERPRISE NETWORK MONITORING WITH PROMETHEUS AND GRAFANA <br>
 - Cài snmp_exporter, cấu hình snmp.yml
 - Kiểm tra thiết bị (snmpwalk, snmpget)
 - Hiển thị dữ liệu SNMP trên Grafana
-- Mẹo: bảo mật SNMPv3, giới hạn port
 
 ## Day 5: Giám sát VMware & Blackbox
 - Giám sát VMware: vmware_exporter, kết nối vCenter, metric cluster, host, VM
