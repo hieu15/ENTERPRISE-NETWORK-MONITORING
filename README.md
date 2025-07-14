@@ -25,10 +25,3 @@ Sau khi hoàn thành khoá học này, bạn sẽ đạt được:
 * Hiểu kiến trúc mạng doanh nghiệp cơ bản.
 * Có lab test (VM hoặc server) để thực hành.
 
-## 🚀 Kết quả mong đợi
-
-* Thành thạo kiến thức cơ bản và nâng cao về Monitoring.
-* Tự tin cài đặt, cấu hình, vận hành Prometheus + Grafana.
-* Xây dựng dashboard trực quan, cảnh báo tự động, giám sát đa tầng.
-* Sẵn sàng áp dụng vào môi trường thực tế tại doanh nghiệp.
-
